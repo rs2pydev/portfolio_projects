@@ -181,7 +181,10 @@ poetry.toml
 # ruff
 .ruff_cache/
 
-# Ignore data files (in PARQUET format)
+# Ignore dataset dir - Contains data files in PARQUET format
 datasets/ 
+
+# Ignore `tags` file
+../tags
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
