@@ -1,1 +1,1 @@
-# Collection of classical ML and deep learning projects built by me.
+# Collection of machine and deep learning projects.
