@@ -181,9 +181,6 @@ poetry.toml
 # ruff
 .ruff_cache/
 
-# Ignore dataset dir - Contains data files in PARQUET format
-datasets/ 
-
 # Ignore `tags` file
 ../tags
 
