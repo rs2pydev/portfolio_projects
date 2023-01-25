@@ -36,6 +36,3 @@ Create a machine learning model that predicts which passengers survived the Tita
 | 9. | **fare** |	Passenger fare | 	|
 | 10. | **cabin** | Cabin number | | 	
 | 11. | **embarked** | Port of Embarkation | `C`: Cherbourg, `Q`: Queenstown, `S`: Southampton |
-| 12. | **boat** | Might be ID of life boat| |
-| 13. | **body** | Might be passenger weight | |
-| 14. | **home.dest** | Final destination of passenger |  
